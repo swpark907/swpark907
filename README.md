@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<a href="https://mwangmoong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
-<a href="https://mwangmoong.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-</a>
+<a href="https://mwangmoong.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4334?style=plastic&logo=Python&logoColor=white"/></a>
 
 <!--
 **swpark907/swpark907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
