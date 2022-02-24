@@ -1,7 +1,11 @@
-### Hi there 👋
+### 안녕하세요 박승우입니다. 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swpark907&show_icons=true&theme=radical)
 
+📧 Email: swpark907@naver.com
+📓 블로그: https://mwangmoong.tistory.com/
+🖊️ 코드펜: https://codepen.io/swpark907
+📝 포트폴리오: https://psw-portfolio.tk
 
 
 ## Skills
