@@ -8,8 +8,6 @@
 
 🖊️ 코드펜: https://codepen.io/swpark907
 
-📝 포트폴리오: https://psw-portfolio.tk
-
 
 ## Skills
 
